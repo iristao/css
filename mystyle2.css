@@ -1,3 +1,28 @@
+.extreme {
+    background-color:lightyellow;
+}
+
+
+
+.navzone{
+    background-color:lightgreen;
+    text-decoration: overline;
+}
+
+
+#tehlulz {
+    background-color: pink;
+}
+
+.content {
+    background-color: purple;
+    color:white;
+}
+
+.prose {
+    color: yellow;
+}
+
 body {
     background-color: #e6ffff;
     margin: 50px;
