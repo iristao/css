@@ -1,0 +1,43 @@
+a:hover{
+ font-size:20px;
+ font-family: arial black;
+ background-color: purple;
+ color: white;
+
+}
+
+a:visited{
+ color: gray;
+}
+
+
+li a {
+    text-align: center;
+    display: block;
+    color: purple;
+    padding: 8px 16px;
+    border-bottom: 1px solid #555;
+}
+
+li {
+	list-style-type: none;
+}
+
+
+.here {
+    text-decoration:underline;
+    text-decoration-style:wavy;
+}
+
+h2 {
+    animation: example 1s linear infinite;
+    text-align: center;
+    padding: 20px;
+}
+
+@keyframes example {
+    0%   {background-color: #ffc6ea;}
+    25%  {background-color: #f993d4;}
+    50%  {background-color: #f442b3;}
+    100% {background-color: #ff32b3;}
+}
